@@ -47,7 +47,7 @@ so the shop can be re-skinned or extended without touching markup.
 
 | Catalogue | Product page |
 | --- | --- |
-| <img src="docs/catalogue.jpg" alt="Catalogue with filters and product cards"> | <img src="docs/hero.jpg" alt="Product hero with 3D viewer"> |
+| <img src="docs/catalogue.jpg" alt="Catalogue with filters and product cards"> | <img src="docs/product.jpg" alt="Product page with photography and spec table"> |
 
 ## Tech stack
 
