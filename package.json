@@ -1,0 +1,22 @@
+{
+  "name": "volta-ecommerce-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static ecommerce storefront with a real-time 3D product configurator.",
+  "keywords": [
+    "ecommerce",
+    "storefront",
+    "three.js",
+    "3d",
+    "static-site",
+    "demo"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "dev": "python3 -m http.server 8123",
+    "preview": "npx serve -l 8123 ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
