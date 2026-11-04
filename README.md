@@ -62,9 +62,10 @@ so the shop can be re-skinned or extended without touching markup.
 
 ## Getting started
 
+Download the repository (Code → Download ZIP) or use your existing checkout, then
+serve the folder:
+
 ```bash
-git clone https://github.com/tricuongdao/volta-ecommerce-demo.git
-cd volta-ecommerce-demo
 python3 -m http.server 8123
 # open http://127.0.0.1:8123
 ```
